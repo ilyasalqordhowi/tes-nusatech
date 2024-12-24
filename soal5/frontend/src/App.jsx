@@ -25,7 +25,7 @@ function App() {
       element: <Setting />,
     },
     {
-      path: "/chatting",
+      path: "/Chatting/:id",
       element: <Chatting />,
     },
   ]);
